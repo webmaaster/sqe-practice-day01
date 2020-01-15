@@ -1,7 +1,7 @@
-# sqe-practice-day01
+<h1>sqe-practice-day01</h1>
 
 # sqe-day01
-#DAY-01
+<h1>DAY-01</h1>
 
 ## Introducing to each other
 ## Preparing Environments: Chrome, Git, GitHub, CodePen, VS Code

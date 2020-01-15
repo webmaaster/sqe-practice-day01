@@ -1,7 +1,7 @@
 # sqe-practice-day01
 
 # sqe-day01
-DAY-01
+#DAY-01
 
 ## Introducing to each other
 ## Preparing Environments: Chrome, Git, GitHub, CodePen, VS Code
@@ -27,5 +27,22 @@ DAY-01
 2. git add . + Enter
 3. git commit -m "Message"
 4. git push -u origin firstName-lastName
+
+# HTML BOILERPLATE
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My 1st Website</title>
+  </head>
+  <body>
+  <h1>Welcome to my 1st website!</h1>
+  </body>
+
+</html>
+
+
+
+
 
 
